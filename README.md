@@ -117,6 +117,7 @@ Most repositories here are **real, evolving systems**, not tutorials.
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JerinJamesDeveloper)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JerinJamesDeveloper)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerinJamesDeveloper\&layout=compact)
 
 ---
