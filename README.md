@@ -116,7 +116,7 @@ Most repositories here are **real, evolving systems**, not tutorials.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerinJamesDeveloper\&show_icons=true\&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JerinJamesDeveloper)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerinJamesDeveloper\&layout=compact)
 
 ---
